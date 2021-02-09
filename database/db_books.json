@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "isbn":2251,
+        "judul":"Pemuda tamvan dan pemberani",
+        "sinopsis":"Gerry Merupakan seorang pemuda tamvan yang siap menuju pelaminan",
+        "penulis":"Gerry",
+        "genre":"Romantis"
+    },
+    {
+        "id":2,
+        "isbn":846316,
+        "judul":"Gerry Potter",
+        "sinopsis":"Penyihir kelas kakap yaitu gerry mengajar di synrgy",
+        "penulis":"Gerry",
+        "genre":"Fantasy"
+    },
+    {
+        "id":3,
+        "isbn":123456,
+        "judul":"Sihir melipatgandakan uang",
+        "sinopsis":"Dengan sihir kamu bisa melipatgandakan uang kamu",
+        "penulis":"Gerry",
+        "genre":"Edukasi"
+    }
+]
